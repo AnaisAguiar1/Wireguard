@@ -1,4 +1,4 @@
-# Wireguard
+
 
 ![](https://www.wireguard.com/img/wireguard.svg)
 
@@ -14,4 +14,4 @@ Haz click a continuación para ver el tutorial de configuración de Wireguard pa
 
 Haz click a continuación para ver el tutorial de configuración de Wireguard para Linux.
 
--[Linux](Linux/README.md)
+- [Linux](Linux/README.md)
