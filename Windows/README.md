@@ -12,3 +12,4 @@ podremos ver que la configuración fue aplicada correctamente mirando el estado 
 A continuación puedes ver un gif con el paso a paso de lo anteriormente explicado:
 
 
+![](img/windows.gif)
