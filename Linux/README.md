@@ -19,6 +19,8 @@ Para instalar e iniciar Wireguard en tú ordenador sigue los siguientes pasos:
 4. Para activarlo con el arranque del sistema debemos ejecutar el comando: ``systemctl enable wg-quick@wg-client ``, de esta manera aplicaremos la configuración del archivo descargado.
 
 <br>
-A continuación puedes ver un gif con el paso a paso de lo anteriorment explicado:
+A continuación puedes ver un gif con el paso a paso de lo anteriormente explicado:
+<br>
+<br>
 
-
+![](img/linux.gif)
